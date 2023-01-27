@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Poppins";
+    src: url('../font/Poppins/Poppins-Regular.ttf') format('truetype');
+}
+
+* {
+    border: 1px solid gainsboro;
+    box-sizing: border-box;
+    margin: 1px;
+    padding: 2px;
+    font-family: "Poppins";
+}
